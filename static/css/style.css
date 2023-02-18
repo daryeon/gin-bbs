@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 0;
+    padding: 1em;
+    background-color: #333;
+    color: #fff;
+}
+
+form {
+    padding: 1em;
+    border: 1px solid #ccc;
+}
+
+form label {
+    display: block;
+    margin-bottom: 0.5em;
+}
+
+form input[type="text"],
+form textarea {
+    display: block;
+    margin-bottom: 1em;
+    width: 100%;
+}
+
+form button {
+    display: block;
+    margin-top: 1em;
+}
+
+#posts {
+    padding: 1em;
+}
